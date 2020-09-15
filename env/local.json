@@ -1,0 +1,12 @@
+{
+  "DB_NAME": "library",
+  "DB_HOST": "localhost",
+  "DB_PASSWORD": "13124Mysql+",
+  "DB_USER": "root",
+  "DB_TYPE": "mysql",
+  "DB_PORT": "3306",
+  "NODE_ENV": "local",
+  "PORT": 8289,
+  "BASE_URL": "http://localhost:8289",
+  "ORIGIN": "http://localhost:8289"
+}
